@@ -1,4 +1,4 @@
-import { Main } from './components/pages/Queueing/Main';
+import { Main } from './components/pages/Videoke/Main';
 import QueuePlayer from './components/pages/Videoke/QueuePlayer';
 import LogoutButton from './logout';
 
